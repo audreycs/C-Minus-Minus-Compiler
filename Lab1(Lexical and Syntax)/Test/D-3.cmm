@@ -1,0 +1,27 @@
+/* a comment */
+// also a comment
+// aaaa //
+/*****
+aasdfasdf
+******
+///\\\
+*******/
+int a, b;
+/***
+* main
+* //ss
+**/
+int main() {
+// int a,b
+// /*\/
+	int c;
+	c = a;
+	b = a + c + //aasdfdsb;
+	/*asdfasff */ b;
+	if(c <= b) { //b > a comments*//\\//*
+		//\\*//\\*//\\//*//\\*//\\//
+			return c;
+		} else
+
+			return b;
+}

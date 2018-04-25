@@ -1,0 +1,8 @@
+int test_for_wrong_dhex_number()
+{
+	int xF245 = 0;
+	int _correct_dhex_number = 0xF369;
+	int _wrong_dhex_number_ = 0xFG369;
+	int _wrong_dhex_number2_ = 0xx245;
+	int _correct_not_dhex_number3 = xF245;
+}
